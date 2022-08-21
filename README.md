@@ -7,9 +7,9 @@ A cheatsheet to register useful postgres commands and tips
 
 **Useful postgres commands**
 
-\l - list your databases
-\dt - list tables in your database
-\d+ table_name - list details of columns of the table_name 
+\l - list your databases <br>
+\dt - list tables in your database <br>
+\d+ table_name - list details of columns of the table_name <br>
 
 
 ## Basic SQL commands
