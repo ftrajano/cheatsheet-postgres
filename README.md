@@ -16,11 +16,8 @@ A cheatsheet to register useful postgres commands and tips
 SELECT COUNT(DISTINCT table_column) FROM table_name; - Select the distinct values of the table column
 
 ## Inner Joins
-Keep in the "right" table the rows that match with the "left" the items used to compare them.
-SELECT *
-
-FROM left_table
-
-INNER JOIN right_table
-
+Keep in the "right" table the rows that match with the "left" the items used to compare them.<br>
+SELECT * <br>
+FROM left_table <br>
+INNER JOIN right_table<br>
 ON left_table.left_column_name = right_table.right_column_name 
